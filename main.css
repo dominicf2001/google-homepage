@@ -1,0 +1,42 @@
+#about-link-container {
+    float: left;
+    margin-top: .95em;
+}
+
+#store-link-container {
+    float: left;
+    margin-top: .95em;
+}
+
+#gmail-link-container {
+    float: right;
+    margin-top: .95em;
+}
+
+#images-link-container {
+    float: right;
+    margin-top: .95em;
+}
+
+#dropdown-link-container {
+    float: right;
+}
+
+#profile-link-container {
+    float: right;
+}
+
+.link-container {
+    margin: .75em;
+    vertical-align: bottom;
+}   
+
+ul {
+    overflow: auto;
+}
+
+a {
+    display: inline-block;
+    font-size: .9em;
+    
+}
