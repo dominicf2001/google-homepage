@@ -5,40 +5,29 @@ ul {
 a {
     font-size: .9em;
 
-}#about-link-container {
+}
+
+.link-container-left {
     float: left;
+    margin: .75em;
+    vertical-align: bottom;
     margin-top: .95em;
 }
 
-#store-link-container {
-    float: left;
-    margin-top: .95em;
-}
-
-#gmail-link-container {
+.link-container-right {
     float: right;
-    margin-top: .95em;
-}
-
-#images-link-container {
-    float: right;
+    margin: .75em;
+    vertical-align: bottom;
     margin-top: .95em;
 }
 
 #dropdown-link-container {
-    float: right;
+    margin-top: .75em;
 }
 
 #profile-link-container {
-    float: right;
+    margin-top: .75em;
 }
-
-.link-container {
-    margin: .75em;
-    vertical-align: bottom;
-}   
-
-
 
 #logo-image-container {
     width: min-content;
@@ -79,3 +68,7 @@ a {
     background: none;
 }
 
+footer {
+    margin-top: 28em;
+    background: rgb(211, 209, 209);
+}
